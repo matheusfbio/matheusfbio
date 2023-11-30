@@ -11,7 +11,6 @@
   <a href="https://github.com/matheusfbio">
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=matheusfbio&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusfbio&layout=compact&langs_count=7&theme=merko"/>
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusfbio&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact"/>
 </div><br>         
 <p align="left"><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> 
