@@ -1,7 +1,10 @@
 # Software Developer
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif"/>
+</div><br> 
 ### 💫 About Me:
-🔭 I’m have experience on area of the development web and mobile<br>🌱 I’m currently learning web development with React, Typescript and Vite, and mobile development with React Native and kotlin.<br>💬 About me : I'm only an developer crazy for tecnology with the objective more about the news of area of the development of the software.
+🔭 Experience in web and mobile development<br>💬 About me: I'm a developer crazy about technology, I always try to develop software with the most current technology in the software development area.
 
  <a href = "mailto:matheusfabiors@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheus-fabio" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
