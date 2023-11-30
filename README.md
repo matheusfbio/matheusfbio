@@ -1,14 +1,15 @@
 # Software Developer
 
-<img  align="right" width="500" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"/>
+###
+
+<p align="left">🔭 Experience in web and mobile development.<br>💬 About me: I'm a developer crazy about technology, I always try to develop software with the most current technology in the software development area.</p>
 <div align="left">
-🔭 Experience in web and mobile development<br>💬 About me: I'm a developer crazy about technology, I always try to develop software with the most current technology in the software development area.
-</div><br>
-<div  align="left">
-<a href = "mailto:matheusfabiors@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/matheus-fabio" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/matheuz_fabio" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a><br>
-</div><br>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="30" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
+</div>
+
+###
   
 <div align="center">
   <a href="https://github.com/matheusfbio">
