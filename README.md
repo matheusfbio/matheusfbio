@@ -12,13 +12,12 @@
 ###
   
 <div align="center">
-  <a href="https://github.com/matheusfbio">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=matheusfbio&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=matheusfbio&show_icons=true&theme=merko"/>  
   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusfbio&layout=compact&langs_count=7&theme=merko"/>
 </div><br>         
 <p align="center"><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
 <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,androidstudio,gradle,spring,java,kotlin,tailwind,styledcomponents,html,css,js,react,jest,nestjs,nodejs,vite,vscode,graphql,figma,firebase,gcp,aws,github,linux,mysql,postgres,mongo,sqlite,postman," />
- </a> </p>
+ </p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   <!--<img align="center" alt="Matheus-Android-Studio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
   -->
