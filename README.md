@@ -4,9 +4,7 @@
 
 
 <p align="left">🔭 Experience in web and mobile development.<br>💬 About me: I'm a developer crazy about technology, I always try to develop software with the most current technology in the software development area.</p>
-<div align="left">
-  <img height="290em" width="40%" src="https://user-images.githubusercontent.com/74038190/213760697-1dc03683-ba49-44f2-985e-95fd5ec22d3f.gif"/>  
-</div><br>
+<br>
 
 [![contact](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/matheuz_fabio/)
 [![contact](https://skillicons.dev/icons?i=gmail)](mailto:matheusfabiors@gmail.com)
